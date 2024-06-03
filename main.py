@@ -3,7 +3,7 @@ from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
 
-% Wärmeübertrager
+%% Wärmeübertrager
 # Constants
 U = 100.0  # Overall heat transfer coefficient (W/m^2-K)
 A = 1.0  # Heat transfer area (m^2)
